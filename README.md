@@ -17,3 +17,4 @@ Puedes hacer modificaciones al main.js para alterar detalles de la ia, como el m
 
 liga de la api de gemini: https://aistudio.google.com/prompts/new_chat
 liga de la pagina de whatsapp-web.js: https://docs.wwebjs.dev/
+liga para probar modelos: https://aistudio.google.com/prompts/new_chat
